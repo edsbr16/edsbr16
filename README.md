@@ -58,6 +58,15 @@ Foundations               →  C · SQL · Bash · Git · Linux
 
 ---
 
+### Coursework & projects
+
+| Project | What it is |
+|---|---|
+| [Cybersecurity CTF write-ups](link) | Network forensics, binary analysis, cryptanalysis — documented findings with severity ratings and mitigations |
+| [Algorithms & Data Structures](link) | Custom Python implementations: hash tables, backtracking search, recursive sorting — no imports, built from scratch |
+| [SAT Solver](link) | Full DPLL solver pipeline from first principles — parsing, unit propagation, recursive branching |
+| [Security puzzle game](link) | In progress — Unity/Blender, built around real attack and defence concepts |
+
 ### What I'm interested in
 
 Roles at the intersection of security and data · intelligence engineering · forensics ·
